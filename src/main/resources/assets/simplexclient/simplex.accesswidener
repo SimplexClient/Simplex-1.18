@@ -1,4 +1,0 @@
-accessWidener v1 named
-
-accessible method net/minecraft/client/render/GameRenderer loadShader (Lnet/minecraft/util/Identifier;)V
-accessible method net/minecraft/entity/projectile/ShulkerBulletEntity method_7486 (Lnet/minecraft/util/math/Direction$Axis;)V
